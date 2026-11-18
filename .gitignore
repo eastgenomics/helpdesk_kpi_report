@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Helpdesk KPI report outputs and credentials: never commit these
+kpi_report/
+*.csv
+*.html
+*token*
